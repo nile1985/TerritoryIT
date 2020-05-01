@@ -1,0 +1,3 @@
+class ArticleRating < ApplicationRecord
+
+end
